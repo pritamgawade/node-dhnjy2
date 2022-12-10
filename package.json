@@ -2,7 +2,7 @@
   "name": "node-10kc-mini",
   "version": "0.0.0",
   "scripts": {
-    "start": "nodemon ./server.js",
+    "start": "nodemon ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "seed": "node seed-random-notifications.js",
     "swagger": "node swagger-autogen.js"
